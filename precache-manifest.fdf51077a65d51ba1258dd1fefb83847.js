@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7cb48f282e3d89b27d38f9a651b96f10",
+    "revision": "dcb21a1a639faad97e78b6ebea95bdef",
     "url": "/index.html"
   },
   {
-    "revision": "42164c35ad6e82b7bd0c",
+    "revision": "43fee501b5ea075f633a",
     "url": "/static/css/main.0666ecb3.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.a6eea54e.chunk.js"
   },
   {
-    "revision": "42164c35ad6e82b7bd0c",
-    "url": "/static/js/main.03bc6787.chunk.js"
+    "revision": "43fee501b5ea075f633a",
+    "url": "/static/js/main.c591bc3a.chunk.js"
   },
   {
     "revision": "2542d273f5c9244fc78e",
@@ -252,8 +252,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/tiktok_logo.0993e324.png"
   },
   {
-    "revision": "83f8f6166b6bb4b0ebb17d6094c5a6c0",
-    "url": "/static/media/ucla_logo.83f8f616.png"
+    "revision": "092964928a0aad5f38f2f5887fd85a99",
+    "url": "/static/media/ucla_logo.09296492.png"
   },
   {
     "revision": "d63630893eb8cb64af65f395d393c481",

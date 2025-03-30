@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.0666ecb3.chunk.css",
-    "main.js": "/static/js/main.03bc6787.chunk.js",
-    "main.js.map": "/static/js/main.03bc6787.chunk.js.map",
+    "main.js": "/static/js/main.c591bc3a.chunk.js",
+    "main.js.map": "/static/js/main.c591bc3a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.730c1a77.js",
     "runtime-main.js.map": "/static/js/runtime-main.730c1a77.js.map",
     "static/js/2.a6eea54e.chunk.js": "/static/js/2.a6eea54e.chunk.js",
     "static/js/2.a6eea54e.chunk.js.map": "/static/js/2.a6eea54e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4e5fba934f2b8c4d800cf870be6c2df0.js": "/precache-manifest.4e5fba934f2b8c4d800cf870be6c2df0.js",
+    "precache-manifest.fdf51077a65d51ba1258dd1fefb83847.js": "/precache-manifest.fdf51077a65d51ba1258dd1fefb83847.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.0666ecb3.chunk.css.map": "/static/css/main.0666ecb3.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -48,13 +48,13 @@
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "/static/media/tiktok_logo.0993e324.png",
-    "static/media/ucla_logo.png": "/static/media/ucla_logo.83f8f616.png",
+    "static/media/ucla_logo.png": "/static/media/ucla_logo.09296492.png",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.d6363089.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.730c1a77.js",
     "static/js/2.a6eea54e.chunk.js",
     "static/css/main.0666ecb3.chunk.css",
-    "static/js/main.03bc6787.chunk.js"
+    "static/js/main.c591bc3a.chunk.js"
   ]
 }
