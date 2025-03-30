@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8782e236fc4c45ad3ffcfb2f8582a9fa",
+    "revision": "7cb48f282e3d89b27d38f9a651b96f10",
     "url": "/index.html"
   },
   {
-    "revision": "9b51c9e38aff5696ebf3",
+    "revision": "42164c35ad6e82b7bd0c",
     "url": "/static/css/main.0666ecb3.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.a6eea54e.chunk.js"
   },
   {
-    "revision": "9b51c9e38aff5696ebf3",
-    "url": "/static/js/main.2c4b8e09.chunk.js"
+    "revision": "42164c35ad6e82b7bd0c",
+    "url": "/static/js/main.03bc6787.chunk.js"
   },
   {
     "revision": "2542d273f5c9244fc78e",
@@ -192,10 +192,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ibm_logo.d3fccbe1.png"
   },
   {
-    "revision": "571a8584e69ecfbe326c8b8385fbbf54",
-    "url": "/static/media/iiitk_logo.571a8584.png"
-  },
-  {
     "revision": "29152cf756a1facead5393c32e373371",
     "url": "/static/media/intel_logo.29152cf7.jpg"
   },
@@ -254,6 +250,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0993e3246bf5146154391a0afef79b03",
     "url": "/static/media/tiktok_logo.0993e324.png"
+  },
+  {
+    "revision": "83f8f6166b6bb4b0ebb17d6094c5a6c0",
+    "url": "/static/media/ucla_logo.83f8f616.png"
   },
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
