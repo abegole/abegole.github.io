@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9926c6dd9c7ef207350315570aa9fec5",
+    "revision": "ac49d6081168e6e785fb2464ca3fe9be",
     "url": "/index.html"
   },
   {
-    "revision": "2cdd66ed9a700bf5ac20",
+    "revision": "7b71984fc26f6ff1cc83",
     "url": "/static/css/main.0666ecb3.chunk.css"
   },
   {
-    "revision": "2fa769983f30b8bf542f",
-    "url": "/static/js/2.f802280d.chunk.js"
+    "revision": "ee1a2aa1815a413ed5ef",
+    "url": "/static/js/2.ffb39911.chunk.js"
   },
   {
-    "revision": "2cdd66ed9a700bf5ac20",
-    "url": "/static/js/main.b577f037.chunk.js"
+    "revision": "7b71984fc26f6ff1cc83",
+    "url": "/static/js/main.5c26dd1e.chunk.js"
   },
   {
     "revision": "2542d273f5c9244fc78e",
     "url": "/static/js/runtime-main.730c1a77.js"
   },
   {
-    "revision": "d2ea4af3691b621902142ae5baf8b3a4",
-    "url": "/static/media/3d4e_logo.d2ea4af3.png"
+    "revision": "bf7dc9812d26303e9211abad49ac5511",
+    "url": "/static/media/3d4e_logo.bf7dc981.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -62,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c36de80bebae95b63a027a5ea58e7d00",
     "url": "/static/media/amd_logo.c36de80b.webp"
+  },
+  {
+    "revision": "da7106b4239973a793f0d295d1b9944b",
+    "url": "/static/media/amd_logo.da7106b4.png"
   },
   {
     "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
@@ -232,8 +236,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nptel_logo.95a12a2b.png"
   },
   {
-    "revision": "1749c678228964fedaa8d3e10bca4082",
-    "url": "/static/media/pittan_logo.1749c678.png"
+    "revision": "093b0c54452cd72e02985a7df5413a33",
+    "url": "/static/media/pittan_logo.093b0c54.png"
   },
   {
     "revision": "414dfbd98516b39255a3e22ed90b3f7d",
