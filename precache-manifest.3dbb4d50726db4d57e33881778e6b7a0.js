@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "53fddef200bfe2aa1b74f4eb4bf11330",
+    "revision": "bf78595978a654d61346fb6757fad3b4",
     "url": "/index.html"
   },
   {
-    "revision": "287b89178df0b8db3030",
+    "revision": "09fcd7f94af75c8378ce",
     "url": "/static/css/main.0666ecb3.chunk.css"
   },
   {
-    "revision": "157f748ba8dd509acc31",
-    "url": "/static/js/2.a6eea54e.chunk.js"
+    "revision": "2fa769983f30b8bf542f",
+    "url": "/static/js/2.f802280d.chunk.js"
   },
   {
-    "revision": "287b89178df0b8db3030",
-    "url": "/static/js/main.1577a88c.chunk.js"
+    "revision": "09fcd7f94af75c8378ce",
+    "url": "/static/js/main.7d4ebf10.chunk.js"
   },
   {
     "revision": "2542d273f5c9244fc78e",
     "url": "/static/js/runtime-main.730c1a77.js"
+  },
+  {
+    "revision": "d2ea4af3691b621902142ae5baf8b3a4",
+    "url": "/static/media/3d4e_logo.d2ea4af3.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -56,12 +60,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/address_image.16559172.svg"
   },
   {
+    "revision": "c36de80bebae95b63a027a5ea58e7d00",
+    "url": "/static/media/amd_logo.c36de80b.webp"
+  },
+  {
     "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
     "url": "/static/media/animated_ashutosh.eaf02c2d.png"
   },
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
     "url": "/static/media/animated_logo.dcd6dee2.svg"
+  },
+  {
+    "revision": "73becfe1af5dc8c6b8f22c5914ca19be",
+    "url": "/static/media/asme_logo.73becfe1.png"
   },
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
@@ -220,6 +232,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nptel_logo.95a12a2b.png"
   },
   {
+    "revision": "1749c678228964fedaa8d3e10bca4082",
+    "url": "/static/media/pittan_logo.1749c678.png"
+  },
+  {
     "revision": "414dfbd98516b39255a3e22ed90b3f7d",
     "url": "/static/media/portfolio.414dfbd9.gif"
   },
@@ -234,6 +250,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71408db71465afd742233e4a96f06526",
     "url": "/static/media/pwa.71408db7.png"
+  },
+  {
+    "revision": "89b642a3a84a9adf62df0e7693636fdd",
+    "url": "/static/media/rosen_logo.89b642a3.jpg"
   },
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",

@@ -1,20 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.0666ecb3.chunk.css",
-    "main.js": "/static/js/main.1577a88c.chunk.js",
-    "main.js.map": "/static/js/main.1577a88c.chunk.js.map",
+    "main.js": "/static/js/main.7d4ebf10.chunk.js",
+    "main.js.map": "/static/js/main.7d4ebf10.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.730c1a77.js",
     "runtime-main.js.map": "/static/js/runtime-main.730c1a77.js.map",
-    "static/js/2.a6eea54e.chunk.js": "/static/js/2.a6eea54e.chunk.js",
-    "static/js/2.a6eea54e.chunk.js.map": "/static/js/2.a6eea54e.chunk.js.map",
+    "static/js/2.f802280d.chunk.js": "/static/js/2.f802280d.chunk.js",
+    "static/js/2.f802280d.chunk.js.map": "/static/js/2.f802280d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.91df7162be8700926a4160e7e7c4a525.js": "/precache-manifest.91df7162be8700926a4160e7e7c4a525.js",
+    "precache-manifest.3dbb4d50726db4d57e33881778e6b7a0.js": "/precache-manifest.3dbb4d50726db4d57e33881778e6b7a0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.0666ecb3.chunk.css.map": "/static/css/main.0666ecb3.chunk.css.map",
+    "static/media/3d4e_logo.png": "/static/media/3d4e_logo.d2ea4af3.png",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
+    "static/media/amd_logo.webp": "/static/media/amd_logo.c36de80b.webp",
     "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/static/media/animated_logo.dcd6dee2.svg",
+    "static/media/asme_logo.png": "/static/media/asme_logo.73becfe1.png",
     "static/media/blogs_image.svg": "/static/media/blogs_image.058eca4c.svg",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "/static/media/codeInLogo.fee92c18.png",
@@ -40,10 +43,12 @@
     "static/media/manOnTable.svg": "/static/media/manOnTable.83ac24fb.svg",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.069938a8.png",
     "static/media/nptel_logo.png": "/static/media/nptel_logo.95a12a2b.png",
+    "static/media/pittan_logo.png": "/static/media/pittan_logo.1749c678.png",
     "static/media/portfolio.gif": "/static/media/portfolio.414dfbd9.gif",
     "static/media/programmer.svg": "/static/media/programmer.5faf790b.svg",
     "static/media/projects_image.svg": "/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "/static/media/pwa.71408db7.png",
+    "static/media/rosen_logo.jpg": "/static/media/rosen_logo.89b642a3.jpg",
     "static/media/stanford_logo.png": "/static/media/stanford_logo.2c497738.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.3fa54242.svg",
@@ -53,8 +58,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.730c1a77.js",
-    "static/js/2.a6eea54e.chunk.js",
+    "static/js/2.f802280d.chunk.js",
     "static/css/main.0666ecb3.chunk.css",
-    "static/js/main.1577a88c.chunk.js"
+    "static/js/main.7d4ebf10.chunk.js"
   ]
 }
